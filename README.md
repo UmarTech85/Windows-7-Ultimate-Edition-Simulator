@@ -58,14 +58,29 @@ Guys I Create Old Windows 7 Ultimate Edition Simulator I Need Your Support My Ne
 
 # How to run it on Android 📱
 
-1.Tap the download link above.
+1.Tap The Download Link Above.
 
-2.Download the HTML file to your phone.
+2.Download The HTML File To Your Phone.
 
-3.Open your Downloads folder.
+3.Open Your Downloads Folder.
 
-4.Open windows_7_ultimate_simulator.html in a web browser, such as Chrome.
+4.Open Windows_7_Ultimate_Simulator.Html In A Web Browser,Such As Chrome And FireFox.
 
-4.Double-tap desktop icons to open applications.
+4.Double-Tap Desktop Icons To Open Applications In You System.
 
-5.Tap the Windows Start button to access the Start Menu.
+5.Tap The Windows Start Button To Access The Start Menu.
+
+
+# What's New
+
+🖥️ #UI Improvements — Upgrade the interface to look more like Windows 7 Ultimate Edition.
+
+⚙️ #Add Features — Add applications, Start menu, taskbar, desktop icons, and draggable, resizable, minimizable windows.
+
+💾 #File System — Add My Computer, Local Disk C, simulated storage, and Recycle Bin.
+
+🎵 #Built-in Applications — Add Notepad, Calculator, Paint, Media Player, and other Windows-style applications.
+
+🌐 #Browser Support — Add a simulated browser with search and navigation.
+
+🛠️ #Fix and Update — Fix existing issues while preserving the current features.
