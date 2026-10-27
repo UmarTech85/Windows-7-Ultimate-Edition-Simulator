@@ -3,55 +3,55 @@ Guys I Create Old Windows 7 Ultimate Edition Simulator I Need Your Support My Ne
 
 
 
-# Windows 7-inspired desktop and blue wallpaper
+**Windows 7-inspired desktop and blue wallpaper**
 ✅ Included
 
-# Start Menu
+Start Menu
 ✅ Included
 
-# Windows-style taskbar and live clock
+Windows-style taskbar and live clock
 ✅ Included
 
-# Computer and Local Disk C interface
+Computer and Local Disk C interface
 ✅ Included
 
-# Recycle Bin interface
+Recycle Bin interface
 ✅ Included
 
-# Internet Explorer-style browser
+Internet Explorer-style browser
 ✅ Included
 
-# Notepad text editor
+Notepad text editor
 ✅ Included
 
-# Paint drawing application
+Paint drawing application
 ✅ Included
 
-# Windows Media Player interface
+Windows Media Player interface
 ✅ Included
 
-# Calculator
+Calculator
 ✅ Included
 
-# Control Panel
+Control Panel
 ✅ Included
 
-# Personalization settings
+Personalization settings
 ✅ Included
 
-# Network and System settings
+Network and System settings
 ✅ Included
 
-# Draggable application windows
+Draggable application windows
 ✅ Included
 
-# Minimize, maximize, and close buttons
+Minimize, maximize, and close buttons
 ✅ Included
 
-# Mobile-friendly interface
+Mobile-friendly interface
 ✅ Included
 
-# Simulated shutdown
+Simulated shutdown
 ✅ Included
 
 
@@ -73,14 +73,14 @@ Guys I Create Old Windows 7 Ultimate Edition Simulator I Need Your Support My Ne
 
 # What's New
 
-🖥️ #UI Improvements — Upgrade the interface to look more like Windows 7 Ultimate Edition.
+🖥️ UI Improvements — Upgrade the interface to look more like Windows 7 Ultimate Edition.
 
-⚙️ #Add Features — Add applications, Start menu, taskbar, desktop icons, and draggable, resizable, minimizable windows.
+⚙️ Add Features — Add applications, Start menu, taskbar, desktop icons, and draggable, resizable, minimizable windows.
 
-💾 #File System — Add My Computer, Local Disk C, simulated storage, and Recycle Bin.
+💾 File System — Add My Computer, Local Disk C, simulated storage, and Recycle Bin.
 
-🎵 #Built-in Applications — Add Notepad, Calculator, Paint, Media Player, and other Windows-style applications.
+🎵 Built-in Applications — Add Notepad, Calculator, Paint, Media Player, and other Windows-style applications.
 
-🌐 #Browser Support — Add a simulated browser with search and navigation.
+🌐 Browser Support — Add a simulated browser with search and navigation.
 
-🛠️ #Fix and Update — Fix existing issues while preserving the current features.
+🛠️ Fix and Update — Fix existing issues while preserving the current features.
