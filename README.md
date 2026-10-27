@@ -6,52 +6,52 @@ Guys I Create Old Windows 7 Ultimate Edition Simulator I Need Your Support My Ne
 **.Windows 7-Inspired Desktop And Blue Wallpaper.**
 ✅ Included
 
-**.Start Menu.**
+**.Start Menu.**                                    
 ✅ Included
 
-**.Windows-Style Taskbar And Live Clock.**
+**.Windows-Style Taskbar And Live Clock.**          
 ✅ Included
 
-**.Computer And Local Disk C Interface.**
+**.Computer And Local Disk C Interface.**           
 ✅ Included
 
-**.Recycle Bin Interface.**
+**.Recycle Bin Interface.**                         
 ✅ Included
 
-**.Internet Explorer-Style Browser.**
+**.Internet Explorer-Style Browser.**               
 ✅ Included
 
-**.Notepad Text Editor.**
+**.Notepad Text Editor.**                           
 ✅ Included
 
-**.Paint Drawing Application.**
+**.Paint Drawing Application.**                     
 ✅ Included
 
-**.Windows Media Player Interface.**
+**.Windows Media Player Interface.**                
 ✅ Included
 
-**.Calculator.**
+**.Calculator.**                                    
 ✅ Included
 
-**.Control Panel.**
+**.Control Panel.**                                 
 ✅ Included
 
-**.Personalization Settings.**
+**.Personalization Settings.**                      
 ✅ Included
 
-**.Network and System Settings.**
+**.Network and System Settings.**                   
 ✅ Included
 
-**.Draggable application Windows.**
+**.Draggable application Windows.**                 
 ✅ Included
 
-**.Minimize, Maximize, And Close Buttons.**
+**.Minimize, Maximize, And Close Buttons.**         
 ✅ Included
 
-**.Mobile-Friendly Interface.**
+**.Mobile-Friendly Interface.**                     
 ✅ Included
 
-**.Simulated Shutdown.**
+**.Simulated Shutdown.**                            
 ✅ Included
 
 
