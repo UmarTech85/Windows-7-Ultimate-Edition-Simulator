@@ -75,12 +75,12 @@ Guys I Create Old Windows 7 Ultimate Edition Simulator I Need Your Support My Ne
 
 1.🖥️**UI Improvements** — Upgrade the interface to look more like Windows 7 Ultimate Edition.
 
-⚙️ Settings Add Features — Add applications, Start Menu, Taskbar, desktop Icons, And Draggable, Resizable, Minimize Windows.
+2.⚙️**Settings Add Features** — Add applications, Start Menu, Taskbar, desktop Icons, And Draggable, Resizable, Minimize Windows.
 
-💾 File System — Add My Computer, Local Disk C, simulated storage, and Recycle Bin.
+3.💾**File System** — Add My Computer, Local Disk C, simulated storage, and Recycle Bin.
 
-🎵 Music Built-in Applications — Add Notepad, Calculator, Paint, Media Player, and Other Windows-Style Applications.
+4.🎵**Music Built-in Applications** — Add Notepad, Calculator, Paint, Media Player, and Other Windows-Style Applications.
 
-🌐 Web Browser Support — Add a Simulated Browser With Search And Navigation.
+5.🌐**Web Browser Support** — Add a Simulated Browser With Search And Navigation.
 
-🛠️ Fix And Update — Fix Existing Issues While Preserving The Current Features.
+6.🛠️**Fix And Update** — Fix Existing Issues While Preserving The Current Features.
