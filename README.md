@@ -64,7 +64,7 @@ Guys I Create Old Windows 7 Ultimate Edition Simulator I Need Your Support My Ne
 
 3.Open Your Downloads Folder.
 
-4.Open Windows_7_Ultimate_Simulator.Html In A Web Browser,Such As Chrome And FireFox.
+4.Open index.html In A Web Browser,Such As Chrome And FireFox.
 
 4.Double-Tap Desktop Icons To Open Applications In You System.
 
