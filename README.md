@@ -16,7 +16,7 @@ Guys I Create Old Windows 7 Ultimate Edition Simulator I Need Your Support My Ne
 ✅ Included
 
 **.Computer And Local Disk C Interface.**           
-✅ Included
+✅ Included — browse the simulated drives and folders, search the current folder, and use Back, Forward, Up, or the address bar. Create, edit, rename, copy, cut, paste, and delete simulated folders and text files. The Recycle Bin supports restore and permanent deletion. Changes are stored in browser local storage when available; they do not affect real device files. The DVD drive and disk capacity are simulated.
 
 **.Recycle Bin Interface.**                         
 ✅ Included
@@ -69,7 +69,7 @@ Guys I Create Old Windows 7 Ultimate Edition Simulator I Need Your Support My Ne
 
 4.Open index.html In A Web Browser,Such As Chrome And FireFox.
 
-4.Double-Tap Desktop Icons To Open Applications In You System.
+4.Double-Tap Desktop Icons To Open Applications In You System. In Computer, select an item and use Open (or double-tap it) to browse. Files created here stay in the browser and are not real device files.
 
 5.Tap The Windows Start Button To Access The Start Menu.
 
