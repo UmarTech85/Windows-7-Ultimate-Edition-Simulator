@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Modified from upstream: refreshed the Aero-inspired desktop, glass surfaces, taskbar, and app icon accents. -->
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -130,6 +131,48 @@ button:focus-visible,input:focus-visible,textarea:focus-visible,.desktop-icon:fo
  .app-grid{grid-template-columns:repeat(auto-fill,minmax(92px,1fr));gap:4px;padding:12px}
 }
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+
+/* A richer Aero desktop finish, with distinct visual identities for each app. */
+#desktop{
+ background:
+  radial-gradient(ellipse 48% 28% at 51% 100%,rgba(248,254,255,.96),rgba(186,229,249,.74) 42%,transparent 100%),
+  radial-gradient(ellipse 35% 60% at 82% 82%,rgba(31,142,203,.58),transparent 75%),
+  radial-gradient(ellipse 55% 78% at 18% 76%,rgba(7,62,119,.78),transparent 80%),
+  linear-gradient(165deg,#062c59 0%,#0b5790 48%,#1683bf 100%);
+}
+#desktop:before{
+ width:76vw;height:112vh;left:12%;top:-20%;
+ background:
+  radial-gradient(ellipse at 50% 45%,rgba(224,249,255,.24),transparent 57%),
+  conic-gradient(from 238deg at 64% 54%,transparent 0deg,rgba(90,213,244,.05) 17deg,rgba(196,251,255,.19) 25deg,rgba(255,255,255,.04) 32deg,transparent 44deg,transparent 360deg);
+ filter:blur(3px);
+}
+#desktop:after{height:28%;background:linear-gradient(0deg,rgba(2,23,48,.62),rgba(3,43,76,.12) 42%,transparent)}
+.desktop-icon{transition:background .18s,border-color .18s,transform .18s,filter .18s}
+.desktop-icon:hover{transform:translateY(-2px);filter:brightness(1.08)}
+.desktop-icon .ico,.task-app:before,.title-icon,.start-item span:first-child,.app-tile span{
+ background:linear-gradient(145deg,var(--app-light,#fff),var(--app-tint,#dceefa));
+ color:var(--app-color,#24698f);
+}
+.desktop-icon[data-app="computer"],.task-app[data-app="computer"],.window[data-app="computer"]{--app-color:#167db0;--app-light:#f5fdff;--app-tint:#bfe6f5}
+.desktop-icon[data-app="recycle"],.task-app[data-app="recycle"],.window[data-app="recycle"]{--app-color:#3c83aa;--app-light:#f4fcff;--app-tint:#c5e7f4}
+.desktop-icon[data-app="browser"],.task-app[data-app="browser"],.window[data-app="browser"]{--app-color:#1479bc;--app-light:#f4fbff;--app-tint:#c3e8fa}
+.desktop-icon[data-app="notepad"],.task-app[data-app="notepad"],.window[data-app="notepad"]{--app-color:#4381b2;--app-light:#fff;--app-tint:#d9eafd}
+.desktop-icon[data-app="paint"],.task-app[data-app="paint"],.window[data-app="paint"]{--app-color:#a268bb;--app-light:#fff8ff;--app-tint:#efdafa}
+.desktop-icon[data-app="media"],.task-app[data-app="media"],.window[data-app="media"]{--app-color:#238868;--app-light:#f3fff9;--app-tint:#c9f0df}
+.desktop-icon[data-app="control"],.task-app[data-app="control"],.window[data-app="control"]{--app-color:#617b91;--app-light:#fff;--app-tint:#dce8ef}
+.desktop-icon .ico{border-color:color-mix(in srgb,var(--app-color,#24698f) 28%,white);box-shadow:0 4px 10px rgba(0,25,48,.3),inset 0 1px rgba(255,255,255,.95)}
+.task-app:before,.title-icon{border-color:color-mix(in srgb,var(--app-color,#24698f) 25%,white)}
+.window{border-color:rgba(178,220,243,.92);box-shadow:0 20px 54px rgba(0,22,48,.48),0 0 0 1px rgba(230,248,255,.4);backdrop-filter:blur(14px)}
+.titlebar{background:linear-gradient(180deg,rgba(255,255,255,.98),rgba(202,232,249,.96) 45%,rgba(233,247,254,.98));}
+.start-menu{backdrop-filter:blur(22px);}
+.start-head{background:linear-gradient(115deg,#78bfe4,#256fa5 55%,#124671);}
+#taskbar{backdrop-filter:blur(20px) saturate(1.3);}
+#startButton:focus-visible{outline:2px solid #fff;outline-offset:2px}
+@media(max-width:600px){
+ #desktop:before{width:110vw;left:-5%;top:-5%}
+ .desktop-icon:hover{transform:none}
+}
 </style>
 </head>
 <body>
