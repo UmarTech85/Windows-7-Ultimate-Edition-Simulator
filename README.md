@@ -1,4 +1,7 @@
 # Windows-7-Ultimate-Edition-Simulator
+
+> Modified from the upstream project: the UI refresh updates the desktop wallpaper, Aero glass surfaces, taskbar, and app icon accents. The original application features and Apache License 2.0 are retained.
+
 Guys I Create Old Windows 7 Ultimate Edition Simulator I Need Your Support My New Simulator Project For Mobile 📱
 
 
