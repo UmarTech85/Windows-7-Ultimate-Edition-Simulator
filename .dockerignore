@@ -1,0 +1,6 @@
+# Exclude repository metadata and documentation from the image
+.github/
+.git/
+.gitignore
+LICENSE
+README.md
